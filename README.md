@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there 👋 I'm Hugues
 
-<!--
-**huguesmrt/huguesmrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub! This is a sample profile page — feel free to
+edit the placeholders below to make it your own.
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on — a sample project I'm excited about
+- 🌱 I’m currently learning — a new language, framework, or tool
+- 👯 I’m looking to collaborate on — open source projects
+- 🤔 I’m looking for help with — interesting technical challenges
+- 💬 Ask me about — software development and automation
+- 📫 How to reach me — add your preferred contact here
+- ⚡ Fun fact — this README is rendered on my GitHub profile
+
+### Tech I work with
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+### GitHub stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=huguesmrt&show_icons=true&hide_border=true)
+
+### Connect with me
+
+- 🌐 Website: https://example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/your-profile
+- 🐙 GitHub: https://github.com/huguesmrt
