@@ -12,5 +12,5 @@
 
 Replace these placeholders with your own links:
 
-- 💼 LinkedIn: `[huguesm](https://www.linkedin.com/in/huguesm/)`
+- 💼 LinkedIn: [huguesm](https://www.linkedin.com/in/huguesm/)
 - 🐙 GitHub: [@huguesmrt](https://github.com/huguesmrt)
