@@ -8,13 +8,9 @@
 - 📫 How to reach me — LinkedIn (see below)
 - ⚡ Fun fact — this README is rendered on my GitHub profile
 
-### GitHub stats
-
-![My GitHub stats card](https://github-readme-stats.vercel.app/api?username=huguesmrt&show_icons=true&hide_border=true)
-
 ### Connect with me
 
 Replace these placeholders with your own links:
 
-- 💼 LinkedIn: `[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/huguesm/)`
+- 💼 LinkedIn: `[huguesm](https://www.linkedin.com/in/huguesm/)`
 - 🐙 GitHub: [@huguesmrt](https://github.com/huguesmrt)
