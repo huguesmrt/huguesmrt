@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Hugues
 
-<!--
-**huguesmrt/huguesmrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on — onboarding 
+- 🌱 I’m currently learning — lots of new stuff, including how GHAS helps our customers deliver secure code seamlessly
+- 💬 Ask me about — application security
+- 📫 How to reach me — LinkedIn (see below)
+- ⚡ Fun fact — this README is rendered on my GitHub profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+
+Replace these placeholders with your own links:
+
+- 💼 LinkedIn: [huguesm](https://www.linkedin.com/in/huguesm/)
+- 🐙 GitHub: [@huguesmrt](https://github.com/huguesmrt)
