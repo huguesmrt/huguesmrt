@@ -15,18 +15,20 @@ edit the placeholders below to make it your own.
 
 ### Tech I work with
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![TypeScript badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Docker badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions badge](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ### GitHub stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=huguesmrt&show_icons=true&hide_border=true)
+![My GitHub stats card](https://github-readme-stats.vercel.app/api?username=huguesmrt&show_icons=true&hide_border=true)
 
 ### Connect with me
 
-- 🌐 Website: https://example.com
-- 💼 LinkedIn: https://www.linkedin.com/in/your-profile
-- 🐙 GitHub: https://github.com/huguesmrt
+Replace these placeholders with your own links:
+
+- 🌐 Website: `https://your-site.example`
+- 💼 LinkedIn: `https://www.linkedin.com/in/your-profile`
+- 🐙 GitHub: [@huguesmrt](https://github.com/huguesmrt)
